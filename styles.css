@@ -1,0 +1,26 @@
+body {
+    background-color: #cce6ff;
+    font-family: 'Acme', sans-serif;
+}
+
+.bentley {
+    text-align: center;
+    color: #660066;
+    background-color: #fff0b3;
+    font-family: 'Carter One', cursive;
+    text-shadow: 2px 2px black;
+}
+
+img {
+    border: 10px solid #660066;
+    height: 300px;
+    width: 30%;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+h3 {
+    text-decoration: underline;
+}
